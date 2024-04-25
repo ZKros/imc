@@ -1,4 +1,4 @@
-![image](https://github.com/ZKros/imc/assets/1646461/44c6fa2a-5330-4e9d-8925-760b6d37ee60)# IMC
+# IMC
 
 - Objetivo do projeto é fazer o calculo do IMC da pessoa.
 - Matricula: 120100008
